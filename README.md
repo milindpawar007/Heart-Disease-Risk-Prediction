@@ -4,3 +4,7 @@
  the body component of the blood, and if the heart does not operate correctly, the entire human blood system will fail. So if the heart
  doesn't operate well, it may also lead to suicide, due to a severe health problem.  Medical associations compile data on numerous 
  health-related conditions all over the world. Such data can be used to extract practical observations using different machine learning techniques. The data gathered is very huge, though and this data can also be very noisy. Using different machine learning methods, these datasets, which are too overwhelming for human minds to grasp, can be quickly explored. Thus, these algorithms have recently been very helpful in correctly forecasting the occurrence or absence of heart-related diseases.
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/28959459/117085535-18185400-ad18-11eb-80aa-30ff870ebc60.png)
+
